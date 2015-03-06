@@ -17,6 +17,7 @@
 					'<div>',
 						'<a id="ucfhb-myucf" class="ucfhb-service" href="https://my.ucf.edu/psp/PAPROD/EMPLOYEE/EMPL/?cmd=login">myUCF</a>',
 						'<a id="ucfhb-knightsmail" class="ucfhb-service" href="http://knightsemail.ucf.edu">KnightsMail</a>',
+            '<a id="ucfhb-library" class="ucfhb-service" href="https://ucf.catalog.fcla.edu/cf.jsp?Login=1&S=2551425651041174">Library</a>',
 						'<a id="ucfhb-webcourses" class="ucfhb-service" href="https://webcourses.ucf.edu">Webcourses</a>',
 					'</div>',
 				'</div>',
